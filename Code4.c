@@ -7,8 +7,7 @@ int main(){
     for(i=0;i<r;i++){
         for(j=0;j<c;j++){
             scanf("%d",&a[i][j]);
-        }
-    }
+        }}
     printf("Enter the elements of the second matrix: ");
     for(i=0;i<r;i++){
         for(j=0;j<c;j++){
